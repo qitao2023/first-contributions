@@ -1874,7 +1874,7 @@ Merjen Amanmuradova
 - [Jyoti Sahani] (https://github.com/Jyoti9529)
 - [Matt Shih] (https://github.com/Matt940624)
 - Brenden Letsatsi
--[qitao2023](https://github.com/qitao2023)
+- [qitao2023](https://github.com/qitao2023)
 - [xql.dev](https://github.com/kirobotdev)
 -.[Rohan Gupta](https://github.com/thatsrohan).
 - [Yashovardhan Thopte](https://github.com/23f3010068)
